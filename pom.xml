@@ -35,6 +35,12 @@
             <artifactId>reflections</artifactId>
             <version>0.9.10</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.sitture</groupId>
+            <artifactId>env-config</artifactId>
+            <version>0.6.1</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <build>

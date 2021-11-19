@@ -1,5 +1,6 @@
-package driver;
+package com.imindersingh.driver;
 
+import com.github.sitture.env.config.EnvConfig;
 import com.thoughtworks.gauge.AfterSuite;
 import com.thoughtworks.gauge.BeforeSuite;
 import org.openqa.selenium.WebDriver;

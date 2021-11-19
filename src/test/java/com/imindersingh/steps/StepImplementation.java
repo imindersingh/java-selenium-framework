@@ -1,8 +1,8 @@
-package com.imindersingh.framework;
+package com.imindersingh.steps;
 
 import com.thoughtworks.gauge.Gauge;
 import com.thoughtworks.gauge.Step;
-import driver.Driver;
+import com.imindersingh.driver.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
